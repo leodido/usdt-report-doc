@@ -1,0 +1,5 @@
+current directory: /home/travis/build/dalehamel/usdt-report-doc/vendor/bundle/ruby/2.5.0/gems/rainbow-2.2.2/ext
+/home/travis/.rvm/rubies/ruby-2.5.5/bin/ruby mkrf_conf.rb
+
+current directory: /home/travis/build/dalehamel/usdt-report-doc/vendor/bundle/ruby/2.5.0/gems/rainbow-2.2.2/ext
+/home/travis/.rvm/rubies/ruby-2.5.5/bin/ruby -rrubygems /home/travis/build/dalehamel/usdt-report-doc/vendor/bundle/ruby/2.5.0/gems/rake-12.3.2/exe/rake RUBYARCHDIR=/home/travis/build/dalehamel/usdt-report-doc/vendor/bundle/ruby/2.5.0/extensions/x86_64-linux/2.5.0/rainbow-2.2.2 RUBYLIBDIR=/home/travis/build/dalehamel/usdt-report-doc/vendor/bundle/ruby/2.5.0/extensions/x86_64-linux/2.5.0/rainbow-2.2.2
